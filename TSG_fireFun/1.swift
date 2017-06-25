@@ -10,6 +10,7 @@ import UIKit
 
 class test : UIImageView {
 
+    // test2 브랜치 테스트
     /*
     // Only override draw() if you perform custom drawing.
     // An empty implementation adversely affects performance during animation.
