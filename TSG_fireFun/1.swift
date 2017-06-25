@@ -8,7 +8,7 @@
 
 import UIKit
 
-class _: UIImageView {
+class test : UIImageView {
 
     /*
     // Only override draw() if you perform custom drawing.
